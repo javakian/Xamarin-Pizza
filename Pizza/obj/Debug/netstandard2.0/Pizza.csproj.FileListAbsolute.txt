@@ -1,0 +1,32 @@
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/bin/Debug/netstandard2.0/Pizza.deps.json
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/bin/Debug/netstandard2.0/Pizza.dll
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/bin/Debug/netstandard2.0/ref/Pizza.dll
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/bin/Debug/netstandard2.0/Pizza.pdb
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.csprojAssemblyReference.cache
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Controls/FerrisLabel.xaml.g.cs
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Controls/PillLabel.xaml.g.cs
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.AssemblyInfoInputs.cache
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.AssemblyInfo.cs
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.csproj.CoreCompileInputs.cache
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.dll
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/ref/Pizza.dll
+/Users/jamesavakian/Downloads/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.pdb
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/bin/Debug/netstandard2.0/Pizza.deps.json
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/bin/Debug/netstandard2.0/Pizza.dll
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/bin/Debug/netstandard2.0/ref/Pizza.dll
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/bin/Debug/netstandard2.0/Pizza.pdb
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.csprojAssemblyReference.cache
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Controls/FerrisLabel.xaml.g.cs
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Controls/PillLabel.xaml.g.cs
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.AssemblyInfo.cs
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.csproj.CoreCompileInputs.cache
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.dll
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/ref/Pizza.dll
+/Volumes/Macintosh HD1/1 XamApps/Pizza-master/Pizza/Pizza/obj/Debug/netstandard2.0/Pizza.pdb
